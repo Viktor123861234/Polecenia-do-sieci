@@ -14,6 +14,6 @@ getmac
 echo --------------------POLECENIE PATHPING--------------------
 pathping 127.0.0.1
 echo --------------------POLECENIE TRACERT--------------------
-tracert
+tracert 127.0.0.1
 echo Na tym sie skoncze
 pause
